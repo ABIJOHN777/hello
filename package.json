@@ -1,5 +1,6 @@
 {
   "name": "alan",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "akhil":"name"
 }
